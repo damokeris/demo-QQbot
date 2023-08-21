@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### fastRequest ###
+.fastRequest/
+
+### robot-data ###
+robot-data/
