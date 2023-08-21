@@ -1,0 +1,12 @@
+itbaima:
+  robot:
+    username: 2596771264
+    password: a1327118851
+    login-type: password
+    protocol: android_pad
+    signer:
+      type: fuqiuluo
+      version: 8.9.63
+      url: http://127.0.0.1:8888
+      key: 114514
+
